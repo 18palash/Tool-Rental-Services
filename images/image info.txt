@@ -1,0 +1,3 @@
+header image ratio: 1585*426
+
+header color #222
