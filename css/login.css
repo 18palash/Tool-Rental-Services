@@ -1,8 +1,4 @@
-.main-body-container{
-    padding-top: 50px;
-    padding-bottom: 50px;
-    align-self: center;
-}
+
 :root {
     --input-padding-x: 1.5rem;
     --input-padding-y: .75rem;

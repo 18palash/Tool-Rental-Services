@@ -5,7 +5,7 @@
   text-align: center;
 }
 body {
-  color:#FF0000;
+  
   background: url('https://source.unsplash.com/twukN12EN7c/1920x1080') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -47,17 +47,14 @@ body {
   
   border-radius: 5px;
 }
+.main-body-container{
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 25px;
+  padding-right: 25px;
+  align-self: center;
+}
 
-.about-section{
-  height: 350px;
-  width: 100%;
-  padding: 55px;
-}
-.contact-container{
-  height: 350px;
-  width: 100%;
-  padding: 55px;
-}
 
 .main-body-login-page{
   height: 400px;
@@ -103,8 +100,6 @@ body {
   -moz-transition: .5s all ease;
   transition: .5s all ease;
 }
-
-
 
 section {
   padding: 30px 0;
